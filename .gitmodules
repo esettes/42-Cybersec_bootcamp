@@ -1,0 +1,12 @@
+[submodule "42-cybersec_ft_onion"]
+	path = 42-cybersec_ft_onion
+	url = https://github.com/esettes/42-cybersec_ft_onion.git
+[submodule "stockholm"]
+	path = stockholm
+	url = https://github.com/esettes/stockholm.git
+[submodule "totp"]
+	path = totp
+	url = https://github.com/esettes/totp.git
+[submodule "arachnida"]
+	path = arachnida
+	url = https://github.com/esettes/arachnida.git
